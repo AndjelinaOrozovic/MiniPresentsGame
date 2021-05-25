@@ -1,0 +1,45 @@
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\bin\Debug\MiniPresentsGameWPF.exe.config
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\bin\Debug\MiniPresentsGameWPF.exe
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\bin\Debug\MiniPresentsGameWPF.pdb
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.csprojAssemblyReference.cache
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MainWindow.g.cs
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\App.g.cs
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF_MarkupCompile.cache
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF_MarkupCompile.lref
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MainWindow.baml
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.g.resources
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.Properties.Resources.resources
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.csproj.GenerateResource.cache
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.csproj.CoreCompileInputs.cache
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.exe
+C:\Users\andje\source\repos\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.pdb
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\bin\Debug\MiniPresentsGameWPF.exe.config
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\bin\Debug\MiniPresentsGameWPF.exe
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\bin\Debug\MiniPresentsGameWPF.pdb
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.csprojAssemblyReference.cache
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MainWindow.g.cs
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\App.g.cs
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF_MarkupCompile.cache
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF_MarkupCompile.lref
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MainWindow.baml
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.g.resources
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.Properties.Resources.resources
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.csproj.GenerateResource.cache
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.csproj.CoreCompileInputs.cache
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.exe
+C:\Users\andje\Desktop\MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.pdb
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\bin\Debug\MiniPresentsGameWPF.exe.config
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\bin\Debug\MiniPresentsGameWPF.exe
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\bin\Debug\MiniPresentsGameWPF.pdb
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.csprojAssemblyReference.cache
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MainWindow.g.cs
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\App.g.cs
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF_MarkupCompile.cache
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF_MarkupCompile.lref
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MainWindow.baml
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.g.resources
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.Properties.Resources.resources
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.csproj.GenerateResource.cache
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.csproj.CoreCompileInputs.cache
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.exe
+C:\Users\andje\Desktop\Projekat_A-Mini_Presents_Game\1. MiniPresentsGameWPF\MiniPresentsGameWPF\obj\Debug\MiniPresentsGameWPF.pdb
